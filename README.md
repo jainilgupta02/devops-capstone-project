@@ -541,8 +541,8 @@ Lambda automatically ships logs to CloudWatch. No configuration required.
 ### Step 2 — Clone the Repository
 
 ```bash
-git clone git@github.com:Anees-DevOps/devops-accelerator.git
-cd devops-accelerator
+git clone https://github.com/jainilgupta02/devops-capstone-project.git
+
 ```
 
 Create your own GitHub repo and point origin there:
@@ -873,4 +873,4 @@ This project gave me hands-on experience across the full DevOps stack — not ju
 
 ---
 
-*Built by [Anees](https://github.com/Anees-DevOps) — aspiring DevOps engineer.*
+*Built by [Jainil Gupta](https://github.com/jainilgupta02) — aspiring DevOps engineer.*
